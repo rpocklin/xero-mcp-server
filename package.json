@@ -9,7 +9,6 @@
     "url": "git://github.com/XeroAPI/xero-mcp-server.git"
   },
   "author": "Xero (https://xero.com)",
-  "type": "module",
   "bin": "./dist/index.js",
   "files": [
     "dist"
